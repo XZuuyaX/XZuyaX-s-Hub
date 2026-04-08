@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://loaders.xzuyaxhub.workers.dev"))()
+loadstring(game:HttpGet("https://loaderxzuyax.vercel.app"))()
